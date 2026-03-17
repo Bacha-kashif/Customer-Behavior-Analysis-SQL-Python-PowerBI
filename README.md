@@ -30,6 +30,10 @@ How can the company leverage consumer shopping data to identify trends, improve 
 * Are customers who are repeat buyers (more than 5 previous purchases) also likely to subscribe?
 * What is the revenue contribution of each age group?
 
+## Advanced Analysis
+- Customer Segmentation (New, Returning, Loyal)
+- Discount Impact Analysis
+- Subscription vs Non-subscription behavior
 
 ## 🛠️ Tools & Technologies Used
 
@@ -99,6 +103,10 @@ The interactive dashboard provides insights into:
 * ⭐ Improve product quality to maintain high ratings
 * 📢 Use personalized promotions based on customer behavior
 
+## Business Impact
+- Increased targeting efficiency by focusing on young adults
+- Identified high-revenue categories
+- Opportunity to convert 73% non-subscribers
 
 ## 🔮 Future Improvements
 
