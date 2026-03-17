@@ -111,7 +111,8 @@ The interactive dashboard provides insights into:
 
 ### Kashif Bacha
 * Data Analyst
-* Skilled in Python, SQL, Power BI
+* Skilled in Python, SQL, Power BI, Excel, R
+
 📧 Email: bachakashif847@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/kashifbacha/
