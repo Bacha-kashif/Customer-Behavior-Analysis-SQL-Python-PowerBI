@@ -1,9 +1,11 @@
 # Customer Behavior Analysis Dashboard
+
 ## Project Overview
 This project analyzes customer shopping behavior for a retail company to uncover insights that improve **sales performance, customer engagement, and business strategy**.
 
 The analysis combines **Python, SQL, and Power BI** to transform raw data into actionable insights through an interactive dashboard.
 
+![Project Workflow](https://github.com/Bacha-kashif/Customer-Behavior-Analysis-SQL-Python-PowerBI/blob/main/Project%20OverView.png)
 
 ## Business Problem
 
@@ -35,30 +37,6 @@ How can the company leverage consumer shopping data to identify trends, improve 
 *🗄️ SQL – Data Analysis & Querying
 * 📊 Power BI – Interactive Dashboard & Visualization
 * 📁 GitHub – Version Control & Project Showcase
-
-
-Customer-Behavior-Analysis/
-│
-├── data/
-│   ├── raw_data.csv
-│   └── cleaned_data.csv
-│
-├── python/
-│   ├── data_cleaning.py
-│   └── eda_analysis.ipynb
-│
-├── sql/
-│   ├── schema.sql
-│   ├── queries.sql
-│   └── insights.sql
-│
-├── powerbi/
-│   └── dashboard.pbix
-│
-├── images/
-│   └── dashboard.png
-│
-└── README.md
 
 
 ## 🧹 1. Data Preparation (Python)
@@ -102,6 +80,8 @@ The interactive dashboard provides insights into:
 * 💵 Revenue by Category
 * 👥 Customer Distribution by Subscription
 * 🎯 Sales & Revenue by Age Group
+
+
 
 
 ## 🖼️ Dashboard Preview
