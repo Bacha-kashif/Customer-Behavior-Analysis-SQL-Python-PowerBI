@@ -81,7 +81,7 @@ The interactive dashboard provides insights into:
 * 👥 Customer Distribution by Subscription
 * 🎯 Sales & Revenue by Age Group
 
-
+![Project Workflow](https://github.com/Bacha-kashif/Customer-Behavior-Analysis-SQL-Python-PowerBI/blob/main/Customer_Analysis.png)
 
 
 ## 🖼️ Dashboard Preview
